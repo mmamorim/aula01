@@ -8,3 +8,5 @@
 **** Este foi um teste da aula ****
 
 Um teste
+
+> let x = 3 * 5
